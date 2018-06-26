@@ -1,5 +1,3 @@
-package org.primefaces.showcase.view.input;
- 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.faces.application.FacesMessage;
